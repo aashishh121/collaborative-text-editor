@@ -1,0 +1,21 @@
+.ql-container {
+  min-height: 687px;
+  display: flex;
+  justify-content: center;
+}
+
+.ql-editor {
+  min-height: 666px;
+  box-shadow: 0px 0px 5px 0 #f7f7f7;
+  background-color: white;
+  width: 64%;
+  margin: 10px;
+}
+
+.ql-toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: #f7f7f7;
+  border: none;
+}
