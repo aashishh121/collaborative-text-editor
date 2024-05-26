@@ -29,6 +29,15 @@ This project is a real-time collaborative text editor developed to gain proficie
 
 1. **Clone the repository:**
    git clone https://github.com/yourusername/realtime-collaborative-editor.git
-   cd realtime-collaborative-editor
+   
+2. **Frontend Setup:**  
+   cd frontend
+   npm install
+   npm start
+
+2. **Backend Setup:**
+   cd backend
+   npm install
+   npm run dev
   
 
