@@ -4,7 +4,7 @@ const bodyParser = require("body-parser");
 const connectdb = require("./src/config/db.config.js");
 const Documnent = require("./src/models/doc-schema.js");
 
-const PORT = 5000;
+const PORT = 5000 ;
 
 const app = express();
 connectdb();
